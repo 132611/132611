@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @132611
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m @132611 aka Naufal Habib Muzakki
+- 👀 I’m interested in Machine Learning and Cloud Computing
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me. dm at: nmuzakki550@gmail.com
 
 <!---
 132611/132611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
